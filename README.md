@@ -31,8 +31,6 @@ To create a complete Sales and Finance Analytics Report for AtliQ Hardware cover
 5. **Conditional Formatting:**
    - Highlighted trends and performance using visual cues
 
----
-
 ## 📈 Sales Report Insights
 
 - **Top Customer:** Amazon - **$82.1M** in net sales (2021)  
@@ -81,7 +79,11 @@ To create a complete Sales and Finance Analytics Report for AtliQ Hardware cover
 
 ## 📎 Project Files
 
-📂 [Click here to explore the full project report and files](#)
+📂 [Customer Performance Report](https://github.com/Kneeraja-2002/Excel_Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)  
+📂 [Market Performance vs Target Report](https://github.com/Kneeraja-2002/Excel_Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)  
+📂 [P&L Statement by Fiscal Year](https://github.com/Kneeraja-2002/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)  
+📂 [P&L Statement by Markets](https://github.com/Kneeraja-2002/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)  
+📂 [P&L Statement by Months](https://github.com/Kneeraja-2002/Excel_Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 
 ## 💬 Feedback Welcome!
